@@ -1,3 +1,7 @@
 Console.WriteLine("Name: khair muhammad hamza");
 Console.WriteLine("Roll-no: 24-ST-047");
 Console.WriteLine("Addition: " + (5 + 3));
+Console.WriteLine("Subtraction: " + (10 - 6));
+Console.WriteLine("multiplication: " + (20 * 5));
+Console.WriteLine("multiplication: " + (20 / 5));
+
